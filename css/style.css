@@ -1,0 +1,24 @@
+
+
+header .container {
+    padding-right: 0;
+    padding-left: 0;  
+    
+    width: 100%;  
+}
+.title{
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: 10px;
+}
+.navbar{ 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+nav .container{
+    padding-left: 10%;
+}
+
+@media (min-width: 1200px) .container {
+    max-width: 1200px;
+}
