@@ -1,39 +1,33 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Mattia Alessandro's Portfolio Website
 
-Welcome USER_NAME,
+This website is ment to create an online presence for my work
+It contains informations needed from one who's wanting to collaborate with me, offer me a job or simply contact me
+to expose me his idea.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## Aims of this website
 
-## Gitpod Reminders
+The primary aim of this website is to show possible partners that i can make a website that:
+-Is intuitive for the user:
+ Who access to my website must know exactly where he is, what he can do there and how.
+-Is Responsive:
+ Changing the size of the screen changes some styling rules adapting the content to the screensize, and not loosing
+ its good loking design
+-It's simple, yet complete:
+ I strongly believe that less is usually better. One page should not be overloaded with elements or information that
+ the user doesn't need and confuse the overall look
+## Contacts
+As you can see running my Website, feedback is really important to me. if you have any note for me, or want to partecipate
+to some of my progress you are welcome to contact me either on my email (alessandromattia99@gmail.com) or by the contact me form of my website 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Actual Release and Roadmap
+The whole website is written using just Html and Css using only some of the bootsrap 4 JavaScript library, as i'm still studying at the moment.
+I Will update the source code frequently as i will be learning new things. When i'll get to JS i will update the contact me form to make it actually work.
+I will also have to update the resume section for every new coding language that i learn. You will also notice that the "my-projects" file doesn't really
+have any project inside of it; that's because this is my absolute first website, i will add them asap.
 
-`python3 -m http.server`
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## Credits
+As said before this website is made using CDNs:
+-Bootstrap has been used for major stiling including some JS features and the grid system.
+-FontAwsome has been used for all icons you can find across the website.
+-Google Fonts has been used to import all fonts used.
+Special thanks go also to The Code Institute for the git hub template they provided me allowing to limit time losses.
