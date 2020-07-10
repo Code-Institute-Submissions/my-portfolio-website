@@ -17,7 +17,8 @@ The primary aim of this website is to show possible partners that i can make a w
  the user doesn't need and confuse the overall look
 ## Contacts
 As you can see running my Website, feedback is really important to me. if you have any note for me, or want to partecipate
-to some of my progress you are welcome to contact me either on my email (alessandromattia99@gmail.com) or by the contact me form of my website 
+to some of my progress you are welcome to contact me either on my email (alessandromattia99@gmail.com) or by the contact me form of my website
+(when i'll update it to make it work)
 
 ## Actual Release and Roadmap
 The whole website is written using just Html and Css using only some of the bootsrap 4 JavaScript library, as i'm still studying at the moment.
@@ -30,4 +31,5 @@ As said before this website is made using CDNs:
 -Bootstrap has been used for major stiling including some JS features and the grid system.
 -FontAwsome has been used for all icons you can find across the website.
 -Google Fonts has been used to import all fonts used.
+All definitions along the website are quoted from Wikipedia.
 Special thanks go also to The Code Institute for the git hub template they provided me allowing to limit time losses.
