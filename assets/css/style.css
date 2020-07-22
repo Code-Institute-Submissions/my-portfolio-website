@@ -1,10 +1,18 @@
-
+.bg-grey{
+    background-color: #7a7a7a
+}
+.bg-lightblue{
+    background-color:  #A2E0DA;
+}
 
 header .container {
     padding-right: 0;
     padding-left: 0;  
     
     width: 100%;  
+}
+.porfile-pic{
+    left: 0;
 }
 .title{
     font-family: 'Inconsolata', monospace;
@@ -28,26 +36,7 @@ br{
     background-color: grey;
    
 }
+.row.skill{
+    padding: 20px 0;
 
-.resume-container .col-9{
-    
-    border: solid 5px grey;
-    border-right: 0;
 }
-.resume-container .col-3{
-    
-    border: solid 5px grey;
-    border-left: 0;
-}
-.resume-container .col-2{
-    
-    border: solid 5px grey;
-    border-right: 0;
-}
-.resume-container .col-10{
-    
-    border: solid 5px grey;
-    border-left: 0;
-}
-
-
