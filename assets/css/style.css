@@ -1,14 +1,24 @@
+/*----------------------------generals---------------------*/
+hr{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+/*-------colors-----*/
 .bg-grey{
     background-color: #7a7a7a
 }
 .bg-lightblue{
     background-color:  #A2E0DA;
 }
-
+/*----------header---------*/
 header .container {
     padding-right: 0;
     padding-left: 0;  
-    
+
     width: 100%;  
 }
 .porfile-pic{
@@ -30,13 +40,41 @@ br{
     background-color: #7a7a7a;
 }
 
-.divider{
-    width: 100%;
-    height: 5px;
-    background-color: grey;
-   
-}
+
+/*--------skills------*/
 .row.skill{
     padding: 20px 0;
 
+}
+
+
+/*-----------------education----------*/
+.timeline-item{
+    margin-left: 40px;
+    padding: 5%;
+    border-left: solid 1px #A2E0DA;
+    position: relative
+}
+.timeline-item:before {
+    content: attr(data-date);
+    position: absolute;
+    left: 2.5em;
+    top: 0em;
+    display: block;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 1.2em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:after {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #7a7a7a;
 }
